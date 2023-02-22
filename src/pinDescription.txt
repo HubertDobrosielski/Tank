@@ -1,0 +1,18 @@
+PINY:
+  B4 (OC2A) <- EN LEFT
+  H6 (OC2B) <- EN RIGHT
+  E4 (OC3B) <- kierunek lewej gąsieniecy
+  E5 (OC3C) <- kierunek prawej gąsieniecy
+  H3 (OC4A) <- światła przednie
+  E3 (OC3A) <- światła tylne
+  G5 (OC0B) <- kierunkowskaz lewy
+  B6 (OC1B) <- kierunkowskaz prawy
+  B5 (OC1A) <- Buzzer
+  J0 <- CZUJNIK
+  J1 <- CZUJNIK
+
+LICZNIKI:
+  timer 1 -> kierunkowskazy i buzzer(na wstecznym)
+  timer 2 -> silniki
+  timer 3 -> buzzer i światła tylne
+
