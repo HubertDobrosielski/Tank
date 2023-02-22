@@ -1,13 +1,12 @@
 # Tank
 
-University project.
-Implementation of tracked vehicle control
+University project. Implementation of tracked vehicle control
 
 functions:
     - Wirelles communications (bluetooth)
-    - Moving
-        - Forward
-        - Backwards
+    * Moving
+        * Forward
+        * Backwards
         - Turning
     - Lights control
         - Positions
